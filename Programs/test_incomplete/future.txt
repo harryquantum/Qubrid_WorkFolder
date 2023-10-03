@@ -1,0 +1,19 @@
+{
+    "config": {
+        "job_path": "https://api.ionq.co/v0.3/jobs",
+        "qubits": "\u001d",
+        "shots": "1000",
+        "target": "simulator",
+        "token": "0GMB7N19ksVxpNcIb5pQPgimo7Ssq9g3",
+        "url": "https://api.ionq.co",
+        "user_agent": "cudaq/0.3.0",
+        "version": "v0.3"
+    },
+    "jobs": [
+        [
+            "e6d68267-baf3-4e04-b7a2-1d9826514dde",
+            "__nvqppBuilderKernel_792023759228"
+        ]
+    ],
+    "qpu": "ionq"
+}
